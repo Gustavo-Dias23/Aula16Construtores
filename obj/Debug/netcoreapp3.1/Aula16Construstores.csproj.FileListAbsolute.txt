@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.exe
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.deps.json
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.runtimeconfig.json
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.dll
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\bin\Debug\netcoreapp3.1\Aula16Construstores.pdb
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.AssemblyInfo.cs
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.dll
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.pdb
+D:\Users\gusta\Desktop\Senai\Aula16Construstores\obj\Debug\netcoreapp3.1\Aula16Construstores.genruntimeconfig.cache
