@@ -9,7 +9,7 @@ namespace Aula16Construstores
             Produto carro = new Produto();
 
             Produto moto = new Produto(987);
-            System.Console.WriteLine(moto.Codigo);
+            System.Console.WriteLine("O código desse produto é "+moto.Codigo);
 
             Produto van = new Produto(321,"Kombi", "Azul", 3);
             System.Console.WriteLine("O código do produto é "+van.Codigo);
